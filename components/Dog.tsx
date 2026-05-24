@@ -4,7 +4,7 @@ import React from "react";
 
 const Dog = () => {
   return (
-    <div className="dog">
+    <div className="dog 2xl:w-[9vmin] 2xl:h-[6vmin] absolute z-0">
       <div className="heart heart--1"></div>
       <div className="heart heart--2"></div>
       <div className="heart heart--3"></div>

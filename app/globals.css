@@ -277,8 +277,8 @@
   top: 100%;
   transform: translateY(-100%);
   right: 5%;
-  width: 15vmin;
-  height: 10vmin;
+  width: 5vmin;
+  height: 15vmin;
   z-index: 0;
 }
 
@@ -675,8 +675,8 @@
   height: 48%;
   z-index: 6;
   position: absolute;
-  bottom: 35%;
-  left: 14%;
+  bottom: 15%;
+  left: 5%;
   border-top-color: transparent;
   border-bottom-left-radius: 72% 100%;
   border-bottom-right-radius: 77% 100%;
