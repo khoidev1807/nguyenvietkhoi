@@ -277,8 +277,8 @@
   top: 100%;
   transform: translateY(-100%);
   right: 5%;
-  width: 5vmin;
-  height: 15vmin;
+  width: 15vmin;
+  height: 10vmin;
   z-index: 0;
 }
 
